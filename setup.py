@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="ampere",
+    name="ampere-iq",
     version="0.1.0",
     author="Pascal Greilach",
     author_email="pascal@greilach.dev",
